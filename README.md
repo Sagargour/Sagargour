@@ -1,3 +1,5 @@
+<img align="top" alt="Coding" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+
 <h1 align="center">Hi 👋, I'm Sagr Grour</h1>
 <h3 align="center">A passionate Full stack Developer from India</h3>
 
