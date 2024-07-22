@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **HTML , CSS , JS , PHP , MYSQL**
+- 💬 Ask me about **HTML , CSS , JS , PHP , MYSQL,BOOTSTRAP,RESPONSIVE-DESIGN**
 
 - 📫 How to reach me **sagargour7619@gmail.com**
 
