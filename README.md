@@ -16,19 +16,20 @@
 ---
 
 ## 👨‍💻 About Me
+
 ```javascript
 const sagar = {
-  name:     "Sagar Gour",
-  location: "Indore, Madhya Pradesh 🇮🇳",
-  role:     "Frontend Web Developer",
-  experience: "2+ Years | 70+ Websites Built",
-  education:  "MCA — Maharaja Ranjit Singh College, Indore (2023–2025)",
+  name:              "Sagar Gour",
+  location:          "Indore, Madhya Pradesh 🇮🇳",
+  role:              "Frontend Web Developer",
+  experience:        "2+ Years | 70+ Websites Built",
+  education:         "MCA — Maharaja Ranjit Singh College, Indore (2023–2025)",
   currentlyLearning: ["React.js", "Node.js", "REST APIs"],
-  expertise: ["HTML5", "CSS3", "JavaScript", "PHP", "MySQL", "Bootstrap", "Tailwind CSS"],
-  contact:   "sagargour7619@gmail.com",
-  funFact:   "I've built 70+ websites and I'm just getting started 🚀"
+  expertise:         ["HTML5", "CSS3", "JavaScript", "PHP", "MySQL", "Bootstrap", "Tailwind CSS"],
+  contact:           "sagargour7619@gmail.com",
+  funFact:           "I've built 70+ websites and I'm just getting started 🚀"
 };
-` `` `  ← (remove spaces)
+```
 
 ---
 
@@ -107,7 +108,7 @@ const sagar = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagargour7619@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-gour-09a9a8216)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sagargour)
-[![Phone](https://img.shields.io/badge/+91_9669347437-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919669347437)
+[![WhatsApp](https://img.shields.io/badge/+91_9669347437-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919669347437)
 
 </div>
 
@@ -120,8 +121,3 @@ const sagar = {
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:2563eb,100:1a2744&height=120&section=footer"/>
 </div>
-```
-
----
-
-**One fix needed:** In the code block section, remove the spaces from the closing backticks `` ` `` `` ` `` `` ` `` — I had to add spaces so it renders here. The actual closing line should be three backticks ` ``` ` with no spaces.
