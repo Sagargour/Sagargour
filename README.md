@@ -1,37 +1,105 @@
-# 👋 Hello, I'm Sagar Gour
+# 👋 Hi, I'm Sagar Gour
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:6366F1,100:0B1120&height=200&section=header&text=Sagar%20Gour&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%26%20UI/UX%20Designer%20%7C%20Indore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=18&animation=fadeIn"/>
+# Frontend Developer • UI/UX Designer • Shopify Developer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Frontend+Developer+%26+UI%2FUX+Designer+%F0%9F%9A%80;74%2B+Websites+Delivered+%F0%9F%8C%90;2%2B+Years+of+Experience+%F0%9F%92%AA;Building+Fast%2C+Responsive+Websites+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+Building fast, responsive & pixel-perfect websites.
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sagargour&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/sagargour?label=Followers&style=flat-square&color=6366F1" alt="Followers" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20Work-22D3EE?style=flat-square" alt="Available for Work" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar_Gour-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagar-gour-09a9a8216)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sagargour7619@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Frontend Developer & UI/UX Designer** based in **Indore, MP**, with a passion for turning designs into fast, responsive, and pixel-perfect websites. I'm equally comfortable in Figma as I am in a code editor.
+- 💼 Frontend Developer with **2.5+ years** of experience
+- 🚀 **74+ websites** delivered
+- 🎨 UI/UX Designer using **Figma**
+- 🛍 Shopify & WordPress Developer
+- 🌍 Worked with Domestic & International clients
+- 📍 Indore, Madhya Pradesh, India
 
-```javascript
-const sagar = {
-  name: "Sagar Gour",
-  location: "Indore, Madhya Pradesh 🇮🇳",
-  role: "Frontend Developer & UI/UX Designer",
-  experience: "2+ Years | 74+ Projects Delivered",
-  education: "MCA — Maharaja Ranjit Singh College, Indore (2023–2025)",
-  companies: ["Indiawebsoft", "Steves AI Lab", "Codesoft"],
-  currentlyLearning: ["React.js", "UI/UX Advanced", "AI-Integrated Web Products"],
-  expertise: ["HTML5", "CSS3", "JavaScript", "PHP", "MySQL", "Bootstrap", "Tailwind CSS", "WordPress", "Shopify", "Figma"],
-  contact: "sagargour7619@gmail.com",
-  funFact: "I've built 74+ websites for clients across 10+ countries 🌍"
-};
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### CMS & Tools
+WordPress • Shopify • Figma • Git • Core PHP • MySQL • cPanel
+
+---
+
+## 💼 Experience
+
+### Steves AI Lab
+**Web Designer**
+- UI/UX Design
+- Shopify Development
+- AI Product Interfaces
+
+### Indiawebsoft
+**Web Designer & Developer**
+- 65+ client websites
+- Responsive Development
+- SEO Optimization
+- Performance Improvements
+
+### Codesoft
+**Frontend Developer Intern**
+
+---
+
+## 🌟 Featured Projects
+
+- Solar Dried Foods
+- Bendigo Maxi Taxi
+- Sheffield Alloy
+- Study Auracle
+- Khambati Steel
+- Orange Architects
+- Gravity Space Design
+- Sky Yoga Singapore
+
+---
+
+## 📈 GitHub Stats
+
+```md
+Replace YOUR_USERNAME below with your GitHub username.
+```
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- 📧 sagargour7619@gmail.com
+- 📱 +91 96693 47437
+- 💼 LinkedIn: https://www.linkedin.com/in/sagar-gour-09a9a8216
+- 🐙 GitHub: https://github.com/Sagargour
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning designs into fast, responsive, pixel-perfect experiences."*
+
+</div>
