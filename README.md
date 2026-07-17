@@ -6,7 +6,7 @@
 
 Building fast, responsive & pixel-perfect websites.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge)]([https://your-portfolio-link.com](https://sagar-gour-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge)](https://sagar-gour-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar_Gour-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagar-gour-09a9a8216)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sagargour7619@gmail.com)
 
